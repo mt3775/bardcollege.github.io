@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(22, 22, 22);
+    background-color: rgb(50, 5, 6);
     color: linen;
     font-size: 150%;
     line-height: 1.4;
@@ -48,7 +48,7 @@ img{
     width:70%;
     color: white;
     font-size: 110%;
-    background:gray;
+    background:black;
     padding: 4px;
     border:1px solid white;
 }

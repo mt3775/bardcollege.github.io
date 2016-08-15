@@ -29,22 +29,22 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "Wassham Love. How you doing?"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
     "What do you think about machines have to do with your problem?",
     "Don't you think computers can help people",
     "Why do you mention computers?",
-    "What about computers worries you?",
+    "YOU yea with computers?",
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "you just gone be la brudda",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
+    "You good la brudda",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
   ],
@@ -94,7 +94,7 @@ var rules = {
   ],
   "~*x my mother ~*y": [
     "Who else in your family ~y?",
-    "Tell me more about your family",
+    "Yo mama nem huh?",
   ],
   "~*x my father ~*y": [
     "Your father?",
